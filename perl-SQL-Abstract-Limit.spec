@@ -6,7 +6,7 @@
 %define	pdir	SQL
 %define	pnam	Abstract-Limit
 Summary:	SQL::Abstract::Limit - portable LIMIT emulation
-Summary(pl):	SQL::Abstract::Limit - przeno∂na emulacja LIMIT
+Summary(pl.UTF-8):   SQL::Abstract::Limit - przeno≈õna emulacja LIMIT
 Name:		perl-SQL-Abstract-Limit
 Version:	0.12
 Release:	1
@@ -28,8 +28,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Portability layer for LIMIT emulation.
 
-%description -l pl
-Warstwa przeno∂no∂ci dla emulacji LIMIT.
+%description -l pl.UTF-8
+Warstwa przeno≈õno≈õci dla emulacji LIMIT.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
