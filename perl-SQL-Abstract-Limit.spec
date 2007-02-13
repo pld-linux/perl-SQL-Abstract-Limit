@@ -6,7 +6,7 @@
 %define	pdir	SQL
 %define	pnam	Abstract-Limit
 Summary:	SQL::Abstract::Limit - portable LIMIT emulation
-Summary(pl.UTF-8):   SQL::Abstract::Limit - przenośna emulacja LIMIT
+Summary(pl.UTF-8):	SQL::Abstract::Limit - przenośna emulacja LIMIT
 Name:		perl-SQL-Abstract-Limit
 Version:	0.12
 Release:	1
