@@ -8,13 +8,13 @@
 Summary:	SQL::Abstract::Limit - portable LIMIT emulation
 Summary(pl.UTF-8):	SQL::Abstract::Limit - przenośna emulacja LIMIT
 Name:		perl-SQL-Abstract-Limit
-Version:	0.12
+Version:	0.141
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	127285b0a59f2a671fd4c411371d4877
+# Source0-md5:	d8dde39b1d7910ddf5457108c02be552
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
