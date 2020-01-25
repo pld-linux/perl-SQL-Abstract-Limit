@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_with	tests		# perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	SQL
 %define	pnam	Abstract-Limit
 Summary:	SQL::Abstract::Limit - portable LIMIT emulation
