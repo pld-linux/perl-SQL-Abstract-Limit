@@ -8,7 +8,7 @@ Summary:	SQL::Abstract::Limit - portable LIMIT emulation
 Summary(pl.UTF-8):	SQL::Abstract::Limit - przenośna emulacja LIMIT
 Name:		perl-SQL-Abstract-Limit
 Version:	0.141
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
